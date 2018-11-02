@@ -1,0 +1,30 @@
+label {
+	padding-right: 100px;
+}
+#cajaPadre{
+
+	/*border: 1px red solid;	*/
+	width: 100%;
+	display: inline-block;
+	
+}
+#infoVenta{
+	float-left: 2rem;
+	/*border: 1px green solid;*/
+	display: inline-block;
+/**/
+}
+#car1{
+	float-right:2rem;
+	padding-left: 2rem;
+	padding-right: 2rem;
+	padding-top: 0.2rem;
+	padding-bottom: 0.2rem;
+	margin-bottom: 4rem;
+	/*border: 1px blue solid;	*/
+	width: 500px;
+	display: inline-block;
+}
+.clear{
+	clear: both;
+}
